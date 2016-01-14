@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SamIam]]></title>
         <description><![CDATA[SamIam]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/samiam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 07:08:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 07:20:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samiam/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi, I'm Sam]]></title>
-            <description><![CDATA[<article><h1>Hi, I'm Sam</h1><p>"Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not." - Dr. Seuss. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ec766b0e4ba73795e69a79ad3303a19ea8d04e7.jpg"></article>]]></description>
-            <link>undefinedhi-im-sam/index.html</link>
+            <description><![CDATA[<h1>Hi, I'm Sam</h1>]]></description>
+            <link>https://thegrid.ai/samiam/hi-im-sam/index.html</link>
             <guid isPermaLink="false">aaca7dac-6586-467c-bfa2-82615868cfc3</guid>
-            <pubDate>Thu, 14 Jan 2016 07:08:31 GMT</pubDate>
+            <pubDate>Thu, 14 Jan 2016 07:20:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
