@@ -1,7 +1,7 @@
 name: SamIam
 favicon: null
-layout_spectrum: 0.25315965595655143
-typography_spectrum: 0.133194490801543
+layout_spectrum: 1
+typography_spectrum: 0.61489
 title: SamIam
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9240036138799042
+    - '#ffffff'
+    - '#030303'
+    - '#afafaf'
+    - '#5e5e5e'
+    - '#e64529'
+  brandStrength: 1
   lightness: 0.21552345086820424
   saturation: 0.36573497019708157
   rhythmicContrast: 0.9101950542535633
