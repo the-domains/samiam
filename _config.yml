@@ -2,6 +2,7 @@ name: SamIam
 favicon: null
 layout_spectrum: 0.25315965595655143
 typography_spectrum: 0.133194490801543
+title: SamIam
 cta:
   domain: null
   bucket: null
