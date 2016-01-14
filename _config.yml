@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#030303'
-    - '#afafaf'
-    - '#5e5e5e'
-    - '#e64529'
+    - '#060701'
+    - '#823f0a'
+    - '#f0ac1a'
+    - '#005bae'
   brandStrength: 1
   lightness: 0.21552345086820424
-  saturation: 0.36573497019708157
-  rhythmicContrast: 0.9101950542535633
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
