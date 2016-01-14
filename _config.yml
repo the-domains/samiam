@@ -1,0 +1,28 @@
+name: SamIam
+favicon: null
+layout_spectrum: 0.25315965595655143
+typography_spectrum: 0.133194490801543
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9240036138799042
+  lightness: 0.21552345086820424
+  saturation: 0.36573497019708157
+  rhythmicContrast: 0.9101950542535633
+purpose: []
