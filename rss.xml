@@ -4,7 +4,7 @@
         <description><![CDATA[SamIam]]></description>
         <link>https://thegrid.ai/samiam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 00:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 00:57:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samiam/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi, I'm Sam]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/samiam/hi-im-sam/index.html</link>
             <guid isPermaLink="false">aaca7dac-6586-467c-bfa2-82615868cfc3</guid>
             <pubDate>Sat, 16 Jan 2016 00:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not."   - Dr. Seuss. ]]></title>
-            <description><![CDATA[<h1></h1>]]></description>
-            <link>https://thegrid.ai/samiam/unless-someone-like-you-cares-a-whole-awful-lot-nothing-is/index.html</link>
-            <guid isPermaLink="false">37824c28-7ab2-4de7-8d58-4bb23a214734</guid>
-            <pubDate>Sat, 16 Jan 2016 00:41:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
