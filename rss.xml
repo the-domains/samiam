@@ -4,7 +4,7 @@
         <description><![CDATA[SamIam]]></description>
         <link>https://thegrid.ai/samiam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 00:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 01:02:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samiam/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi, I'm Sam]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/samiam/hi-im-sam/index.html</link>
             <guid isPermaLink="false">aaca7dac-6586-467c-bfa2-82615868cfc3</guid>
             <pubDate>Sat, 16 Jan 2016 00:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imas Fm No. 104 - Formatos Físicos Para Escuchar En La Era Digital]]></title>
+            <description><![CDATA[<article><h1>Imas Fm No. 104 - Formatos Físicos Para Escuchar En La Era Digital</h1><p>El formato físico no ha muerto, bandas consolidadas y emergentes optan por lanzar su material en vinyl, disco o en casette. En esta emisión de IMAS FM, platicamos sobre los releases imperdibles en estos formatos. Visita www.podcasteria.com Síguenos en @podcasteria</p></article>]]></description>
+            <link>https://www.mixcloud.com/podcasteria/imas-fm-no-104-formatos-f%C3%ADsicos-para-escuchar-en-la-era-digital/</link>
+            <guid isPermaLink="false">b73dff68-6139-4bbd-9ed9-f9c97b73857a</guid>
+            <pubDate>Sat, 16 Jan 2016 01:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
