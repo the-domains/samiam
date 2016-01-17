@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T21:44:42.675Z'
+datePublished: '2016-01-16T21:44:42.709Z'
 dateModified: '2016-01-16T21:44:42.509Z'
 title: Manifesto
 author: []
