@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T03:45:47.941Z'
-dateModified: '2016-01-19T03:45:31.469Z'
+datePublished: '2016-01-19T04:37:37.016Z'
+dateModified: '2016-01-19T04:37:36.382Z'
 title: 'Life Motto '
 author: []
+sourcePath: _posts/2016-01-19-life-motto.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-life-motto.md
-published: true
-url: life-motto/index.html
-_type: Article
+_type: Blurb
 
 ---
 Life Motto
