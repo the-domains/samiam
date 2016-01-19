@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T06:28:51.337Z'
+datePublished: '2016-01-19T06:28:51.336Z'
 dateModified: '2016-01-19T06:28:49.069Z'
 title: 'Life Motto '
 author: []
