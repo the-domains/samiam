@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T06:36:43.938Z'
-dateModified: '2016-01-19T06:34:18.562Z'
+datePublished: '2016-01-19T06:38:11.837Z'
+dateModified: '2016-01-19T06:37:39.363Z'
 title: Team Meeting @ the office
 author: []
+sourcePath: _posts/2016-01-19-team-meeting-the-office.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-team-meeting-the-office.md
-published: true
 _type: Blurb
 
 ---
 Team Meeting @ the office
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fed6464-93e3-4876-9d19-d8393896412d.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9be5d5b040f44cfb988d71d48e1beca879c475c6.png)
