@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T04:37:37.092Z'
-dateModified: '2016-01-19T04:37:36.382Z'
+datePublished: '2016-01-19T05:17:48.303Z'
+dateModified: '2016-01-19T05:17:46.799Z'
 title: 'Life Motto '
 author: []
 sourcePath: _posts/2016-01-19-life-motto.md
@@ -23,4 +23,4 @@ _type: Blurb
 
 ---
 Life Motto
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdf5282e-e9c2-4ff0-af69-df168aa98ff9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f43cebd10c23e94da5b76753091b1d2ef7e6b87.jpg)
