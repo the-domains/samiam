@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T06:38:11.823Z'
-dateModified: '2016-01-19T06:37:39.363Z'
+datePublished: '2016-01-22T04:25:45.764Z'
+dateModified: '2016-01-22T04:14:15.967Z'
 title: Team Meeting @ the office
 author: []
 sourcePath: _posts/2016-01-19-team-meeting-the-office.md
